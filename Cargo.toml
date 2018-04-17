@@ -1,0 +1,6 @@
+[package]
+name = "mylib"
+version = "0.1.0"
+authors = ["u4bi <admin@naver.id>"]
+
+[dependencies]
