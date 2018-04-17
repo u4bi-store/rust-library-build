@@ -1,11 +1,11 @@
 [package]
 name = "mylib"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["u4bi <admin@naver.id>"]
 description = "u4bi test mylib"
 repository = "https://github.com/u4bi-store/rust-library-build"
 license = "MIT"
 keywords = ["library", "simple", "mylib"]
-include = ["src/*.rs", "examples/*.rs", "Cargo.toml"]
+include = ["src/*.rs", "tests/*.rs", "examples/*.rs", "Cargo.toml"]
 
 [dependencies]

@@ -37,5 +37,5 @@ $ cargo login
 $ cargo publish
 ```
 
-## mylib 0.1.0
+## mylib 0.1.1
 > https://crates.io/crates/mylib
