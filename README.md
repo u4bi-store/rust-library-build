@@ -1,0 +1,31 @@
+# rust-library-build
+
+### generater
+
+```
+$ cargo new mylib --lib
+```
+
+### build
+
+```
+$ cargo build
+```
+
+### release
+
+```
+$ cargo build --release
+```
+
+### exmaple 
+
+```
+$ cargo run --example mylib_example
+```
+
+### test
+
+```
+$ cargo test
+```
