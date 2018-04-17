@@ -29,3 +29,10 @@ $ cargo run --example mylib_example
 ```
 $ cargo test
 ```
+
+## publish
+
+```
+$ cargo login
+$ cargo publish
+```
