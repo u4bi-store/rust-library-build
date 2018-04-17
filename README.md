@@ -30,9 +30,12 @@ $ cargo run --example mylib_example
 $ cargo test
 ```
 
-## publish
+### publish
 
 ```
 $ cargo login
 $ cargo publish
 ```
+
+## mylib 0.1.0
+> https://crates.io/crates/mylib
